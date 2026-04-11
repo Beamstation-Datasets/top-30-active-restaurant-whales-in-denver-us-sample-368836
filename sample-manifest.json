@@ -1,0 +1,12 @@
+{
+  "export_job_id": "68711898-2223-4e7e-b5dd-43c28535d8e6",
+  "id_short": 368836,
+  "published_at": "2026-04-11T19:38:15Z",
+  "repo_name": "top-30-active-restaurant-whales-in-denver-us-sample-368836",
+  "sample_asset_name": "beamstation_368836_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/368836/beamstation_368836_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 70,
+  "sample_sha256": "588663d49281f6556636a177ad5ff328c4dd8f86d73c7fc8289ad04d69990b95",
+  "sample_size_bytes": 310607,
+  "total_records": 707
+}
