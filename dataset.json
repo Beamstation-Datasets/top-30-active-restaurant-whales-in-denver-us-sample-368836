@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Denver, US",
+  "export_job_id": "68711898-2223-4e7e-b5dd-43c28535d8e6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 368836,
+  "location_name": "Denver",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-denver-us-sample-368836",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/368836/beamstation_368836_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 70,
+  "sample_sha256": "588663d49281f6556636a177ad5ff328c4dd8f86d73c7fc8289ad04d69990b95",
+  "sample_size_bytes": 310607,
+  "total_records": 707,
+  "updated_at": "2026-04-07T17:37:36.797774+00:00"
+}
